@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <_PublishTargetUrl>ftp://lecturescheduleapi.somee.com/www.lecturescheduleapi.somee.com</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>03/31/2024 00:07:46</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>03/31/2024 00:07:46</publishTime>
+    </File>
+    <File Include="Lectureschedule_api.deps.json">
+      <publishTime>04/08/2024 23:37:02</publishTime>
+    </File>
+    <File Include="Lectureschedule_api.dll">
+      <publishTime>04/08/2024 23:36:50</publishTime>
+    </File>
+    <File Include="Lectureschedule_api.pdb">
+      <publishTime>04/08/2024 23:36:50</publishTime>
+    </File>
+    <File Include="Lectureschedule_api.runtimeconfig.json">
+      <publishTime>04/08/2024 23:37:02</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Abstractions.dll">
+      <publishTime>01/18/2019 00:35:42</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Design.dll">
+      <publishTime>01/18/2019 00:34:20</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.dll">
+      <publishTime>01/18/2019 00:36:06</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Relational.dll">
+      <publishTime>01/18/2019 00:34:10</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.SqlServer.dll">
+      <publishTime>01/18/2019 00:35:20</publishTime>
+    </File>
+    <File Include="Remotion.Linq.dll">
+      <publishTime>02/07/2018 00:25:00</publishTime>
+    </File>
+    <File Include="System.Diagnostics.DiagnosticSource.dll">
+      <publishTime>09/18/2018 19:38:16</publishTime>
+    </File>
+    <File Include="System.Interactive.Async.dll">
+      <publishTime>11/21/2016 16:05:54</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>04/08/2024 23:37:02</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
